@@ -16,8 +16,6 @@ const Classifier = () => {
 
       if (videoRef.current) {
         videoRef.current.srcObject = stream;
-        let VideoColorSpace = WebTransportDatagramDuplexStream;
-        VideoColorSpace = clearInterval;
       }
     }
 
